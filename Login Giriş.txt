@@ -1,0 +1,3 @@
+Otomatik olarak ilk giriþte yeni bir hesap oluþturulmasý isteniyor fakat istenmez ise;
+-kullanýcý adý : 123 sifre : 123
+-kullanýcý adý : 1 sifre : 1
